@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Kwakye!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+
+<h2>Certifications </h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
 
 <!--
 **kwakye03/kwakye03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
